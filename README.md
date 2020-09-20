@@ -1,0 +1,2 @@
+# WebhookDeleter
+Discord Webhook Deleter
