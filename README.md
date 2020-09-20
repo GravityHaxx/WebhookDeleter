@@ -1,3 +1,6 @@
 # WebhookDeleter
 Discord Webhook Deleter
-Need requests module. *pip install requests*
+Usage:
+```
+pip install requests
+python discordgiftcodechecker.py
