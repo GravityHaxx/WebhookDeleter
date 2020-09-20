@@ -3,4 +3,4 @@ Discord Webhook Deleter
 Usage:
 ```
 pip install requests
-python discordgiftcodechecker.py
+python main.py
